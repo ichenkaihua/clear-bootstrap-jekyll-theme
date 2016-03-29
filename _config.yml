@@ -67,3 +67,4 @@ defaults:
     values:
       draft_flag: "[Private]"
 
+gems: [jekyll-paginate]
