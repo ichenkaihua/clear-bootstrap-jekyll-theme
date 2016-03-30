@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",
           "jekyll_serve.sh", "CNAME"]
@@ -53,6 +53,8 @@ repository_url: https://github.com/ichenkaihua.github.io/blob/master/
 
 paginate: 5
 paginate_path: "page:num"
+
+baseurl: "/clear_bootstrap_jekyll_theme/"
 
 #  specify configuration in the pages and posts for your site.
 defaults:
